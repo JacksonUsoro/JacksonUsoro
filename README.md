@@ -5,14 +5,8 @@
 - **[Homelab Cloud Active Directory Domain Services](https://github.com/jacksonusoro/active-directory)**
   - Simulated corporate infrastructure and architecture using VirtualBox
 
-- **Azure Security Information and Event Management (SIEM)**
-  - Built a honeypot VM (`flytrap1`) with all firewall rules and security interfaces disabled to attract attackers
-  - Captured failed login attempts via Windows Event Viewer (usernames, passwords, IP addresses)
-  - Leveraged IP Geolocation API to map attacker locations (latitude, longitude, country, state/province)
-  - Configured Azure Log Analytics Workspace with custom fields trained on sample attack data
-  - Deployed Microsoft Sentinel with custom queries to filter and clean log data
+- **[Azure Security Information and Event Management (SIEM)](https://github.com/JacksonUsoro/Azure-SIEM)**
   - Visualized global attack origins on a heat map showing attempt counts by location
-  - **Tools Used:** Microsoft Azure, Azure Log Analytics, Microsoft Sentinel, IP Geolocation API, Windows 10 Pro
 
 <h2>👨🏾‍💻 Software Development Projects:</h2>
 
