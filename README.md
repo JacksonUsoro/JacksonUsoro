@@ -2,13 +2,8 @@
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-- **Homelab Cloud Active Directory Domain Services**
+- **[Homelab Cloud Active Directory Domain Services](https://github.com/jacksonusoro/active-directory)**
   - Simulated corporate infrastructure and architecture using VirtualBox
-  - Created a virtual domain controller (Windows Server 2019) with IP assignment rules via server management applications
-  - Utilized PowerShell to batch create 1,000+ mock users
-  - Spawned a Windows 10 Pro VM and linked it to `homelabdomain.com`
-  - Verified connectivity by logging in with mock user credentials and testing internet access
-  - **Tools Used:** VirtualBox, Windows Server 2019, Windows 10 Pro, PowerShell, Google Jamboard
 
 - **Azure Security Information and Event Management (SIEM)**
   - Built a honeypot VM (`flytrap1`) with all firewall rules and security interfaces disabled to attract attackers
