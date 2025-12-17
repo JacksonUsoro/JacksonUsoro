@@ -10,8 +10,6 @@
 
 - **[Powershell File Integrity Monitor](https://github.com/jacksonusoro/Powershell-FIM)**
   - Monitors cryptographic hashes of files and alerts when changes occur; logging events in a specified file.
-    
-<h2>👨🏾‍💻 Software Development Projects:</h2>
 
 <h2>🏅 Certifications:</h2>
 
