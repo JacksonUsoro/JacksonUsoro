@@ -13,7 +13,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]
+- **[Vulnerability Management Program Implementation](https://github.com/JacksonUsoro/vulnerability-management-program)
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]
 
 <h2>🏅 Certifications:</h2>
