@@ -1,4 +1,4 @@
-<h1>Hey, I'm Jackson! Welcome to my IT and Information Security Portfolio <br/>
+<h1>Jackson Usoro's IT and Information Security Project Portfolio <br/>
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
  
