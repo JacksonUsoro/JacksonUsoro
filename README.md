@@ -1,4 +1,4 @@
-<h1>Hey, I'm Jackson! <br/><a href="https://github.com/jacksonusoro">Programmer</a>, <a href="https://www.linkedin.com/in/jacksonusoro/">Cybersecurity Professional</a></h1>
+<h1>Hey, I'm Jackson! Welcome to my IT and Information Security Portfolio <br/>
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
  
