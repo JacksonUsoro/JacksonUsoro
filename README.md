@@ -1,4 +1,4 @@
-<h1>Jackson Usoro's IT and Information Security Project Portfolio <br/>
+<H1> <a href="https://www.linkedin.com/in/jacksonusoro/">Jackson Usoro</a>'s IT and Information Security Project Portfolio 🔐
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
  
@@ -10,6 +10,11 @@
 
 - **[Powershell File Integrity Monitor](https://github.com/jacksonusoro/Powershell-FIM)**
   - Monitors cryptographic hashes of files and alerts when changes occur; logging events in a specified file.
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation]
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]
 
 <h2>🏅 Certifications:</h2>
 
