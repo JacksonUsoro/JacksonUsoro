@@ -14,10 +14,12 @@
 ## ⚠️ Vulnerability Management Projects
 
 - [Vulnerability Management Program Implementation](https://github.com/JacksonUsoro/vulnerability-management-program)
+  Step-by-step execution of vulnerability management program inception.
 
 ## 🚨 Threat Hunting and Security Operations
 - [Threat Hunting Scenario (Unauthorized Tor Browswer Usage)](https://github.com/JacksonUsoro/threat-hunting-scenario-tor)
-
+  Case study documenting end-to-end detection, forensic timeline reconstruction, and behavioral analysis.
+  
 <h2>🏅 Certifications:</h2>
 
 [<img src="https://images.credly.com/size/50x50/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" />](https://www.credly.com/earner/earned/badge/9f29bbb1-f7bb-4111-bd8a-65672b68d619)
