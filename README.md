@@ -13,7 +13,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/JacksonUsoro/vulnerability-management-program)
+- [Vulnerability Management Program Implementation](https://github.com/JacksonUsoro/vulnerability-management-program)
 
 ## 🚨 Threat Hunting and Security Operations
 - [Threat Hunting Scenario (Unauthorized Tor Browswer Usage)](https://github.com/JacksonUsoro/threat-hunting-scenario-tor)
