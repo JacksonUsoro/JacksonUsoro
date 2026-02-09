@@ -1,6 +1,6 @@
 <H1> <a href="https://www.linkedin.com/in/jacksonusoro/">Jackson Usoro</a>'s IT and Information Security Project Portfolio 🔐
 
-<h2>👨🏾‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏾‍💻 Information Technology Administration Projects </h2>
  
 - **[Homelab Cloud Active Directory Domain Services](https://github.com/jacksonusoro/active-directory)**
   - Simulated corporate infrastructure and architecture using VirtualBox
@@ -14,7 +14,9 @@
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JacksonUsoro/vulnerability-management-program)
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]
+
+## 🚨 Threat Hunting and Security Operations
+- [Threat Hunting Scenario (Unauthorized Tor Browswer Usage)](https://github.com/JacksonUsoro/threat-hunting-scenario-tor)
 
 <h2>🏅 Certifications:</h2>
 
