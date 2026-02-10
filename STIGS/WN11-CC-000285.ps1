@@ -8,7 +8,7 @@
     GitHub          : github.com/jacksonusoro
     Date Created    : 2026-02-10
     Last Modified   : 2026-02-10
-    Version         : 1.0
+    Version         : 3.0
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN11-CC-000285
