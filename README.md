@@ -22,6 +22,11 @@
   
   Case study documenting end-to-end detection, forensic timeline reconstruction, and behavioral analysis.
   
+## 🏗️ Cloud Projects
+- [AWS Infrastructure as Code - Terraform](https://github.com/JacksonUsoro/AWS-IaaC-Terraform-1)
+  
+  A comprehensive Terraform project that provisions a secure, scalable AWS infrastructure.
+    
 <h2>🏅 Certifications:</h2>
 
 [<img src="https://images.credly.com/size/50x50/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" />](https://www.credly.com/earner/earned/badge/9f29bbb1-f7bb-4111-bd8a-65672b68d619)
