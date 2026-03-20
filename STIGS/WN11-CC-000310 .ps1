@@ -17,7 +17,7 @@
     Version         : 1.0
     Severity        : Medium
     Vuln ID         : V-254420
-    STIG-ID         : WN11-CC-000305
+    STIG-ID         : WN11-CC-000310
 
 .TESTED ON
     Date(s) Tested  : March 20, 2026
