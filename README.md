@@ -18,7 +18,7 @@
   Step-by-step execution of vulnerability management program inception.
 
 ## 🚨 Threat Hunting and Security Operations
-- [Threat Hunting Scenario (Unauthorized Tor Browswer Usage)](https://github.com/JacksonUsoro/threat-hunting-scenario-tor)
+- [Threat Hunting Scenario (Unauthorized Tor Browser Usage)](https://github.com/JacksonUsoro/threat-hunting-scenario-tor)
   
   Case study documenting end-to-end detection, forensic timeline reconstruction, and behavioral analysis.
   
